@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 009f643112cda3c489c09f9d9da881db, type: 3}
+  m_Name: TileAtlas
+  m_EditorClassIdentifier: 
+  tileDatas: []
+  plant: {fileID: 11400000, guid: 98988f4809861b240b3947037c4c13d2, type: 2}
+  grass: {fileID: 11400000, guid: 2655d3037c0510c40b6a4add3ac8fa1d, type: 2}
+  dirt: {fileID: 11400000, guid: 7eda88c9636b92b4297041b877912e54, type: 2}
+  backstone: {fileID: 11400000, guid: d31f7f975a12f9b45bc768482a1f93d0, type: 2}
+  stone: {fileID: 11400000, guid: 53dddacf364114445a1394f03947ce25, type: 2}
+  coal: {fileID: 11400000, guid: 7e8fc5cac09766b4aaec7d6e3d0d907b, type: 2}
+  ironore: {fileID: 11400000, guid: a02beb73fe11ef048a1a4b2fadf69ea5, type: 2}
+  diamond: {fileID: 11400000, guid: e58fa9c7601b92f48ac78e4264a72d59, type: 2}

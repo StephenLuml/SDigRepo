@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff191637209e19045bce0218d0ff5437, type: 3}
+  m_Name: Diamond
+  m_EditorClassIdentifier: 
+  tileName: Diamond
+  sprite: {fileID: 21300000, guid: 4abbeb090b9557545aebf0e08d4e2788, type: 3}
+  durability: 20
+  drops: 1
+  dropItem: {fileID: 11400000, guid: cb80766ba5809c9468120ee2dab414ce, type: 2}
+  mapColor: {r: 0.25882354, g: 1, b: 0.93333334, a: 1}
