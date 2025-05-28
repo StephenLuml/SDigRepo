@@ -17,7 +17,7 @@ public class TerrainGeneration : MonoBehaviour
     public float seed = 0;
     public float caveNoiseFreq = 0.025f;
     public float generateTileThreshold = 1;
-    public float plantChance = 0.1f;
+    //public float plantChance = 0.1f;
     
     [Header("Ores")]
     public OreGenSO[] Ores;

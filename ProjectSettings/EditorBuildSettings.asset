@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/Scenes/MapFromPNG.unity
     guid: b758c98fb05d88f4ab8a6a210e2822c0
   - enabled: 1
-    path: Assets/Scenes/MapSelect.unity
+    path: Assets/Scenes/Old/MapSelect.unity
     guid: 17b9186d747a1f842a83f75a5a4c7a35
   - enabled: 1
     path: Assets/Scenes/MapGeneration.unity
