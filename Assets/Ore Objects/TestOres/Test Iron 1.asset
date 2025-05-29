@@ -10,16 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d5e07abc3fb8a6e48bdf9b7f405d0688, type: 3}
-  m_Name: Iron Gen 2
+  m_Name: Test Iron 1
   m_EditorClassIdentifier: 
-  oreName: Iron
-  genToggle: 0
+  oreName: Iron Ore
+  genToggle: 1
   value: 0
   minHeight: 0
-  maxHeight: 100
-  noiseFreq: 0.12
-  noiseThreshold: 0.8
-  seed: 0
-  sprite: {fileID: 21300000, guid: 3e86706fb30b20e4eb5663384f0a1e94, type: 3}
-  mapColor: {r: 0.50980395, g: 0.2627451, b: 0.15686275, a: 1}
+  maxHeight: 80
+  noiseFreq: 0.5
+  noiseThreshold: 0.88
+  seed: 600
+  sprite: {fileID: 21300000, guid: 43e028e1104145d488324a06536de6b1, type: 3}
+  mapColor: {r: 0.509434, g: 0.26092482, b: 0.15619439, a: 1}
   tile: {fileID: 11400000, guid: a02beb73fe11ef048a1a4b2fadf69ea5, type: 2}

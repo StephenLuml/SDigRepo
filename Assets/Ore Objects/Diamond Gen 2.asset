@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Diamond Gen 2
   m_EditorClassIdentifier: 
   oreName: Diamond
-  genToggle: 1
+  genToggle: 0
   value: 10
   minHeight: 0
   maxHeight: 75
